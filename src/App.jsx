@@ -1,7 +1,5 @@
-
-
 const App = () => {
-  return <div>App</div>;
+  return <div className="w-20 h-10 bg-neutral-500">App</div>;
 };
 
 export default App;
